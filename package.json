@@ -1,0 +1,13 @@
+{
+  "name": "starlite-childcare-site",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Full-stack Starlite Childcare website with server-side inquiries and Google Maps.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
